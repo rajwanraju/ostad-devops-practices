@@ -1,4 +1,4 @@
-name:Learning CI/CD Pipeline
+name: Learning CI/CD Pipeline
 
 on:
   push:
