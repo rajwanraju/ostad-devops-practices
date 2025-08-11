@@ -7,3 +7,5 @@ Testing git command using SSH.
 New changes. 
 
 Testing CI/CD Pipeline
+
+2nd commit.
